@@ -1,0 +1,5 @@
+2024-05-22 18:18:31  INFO     Connected to MQTT Broker!
+2024-05-22 18:18:45  INFO     Received `{"command": "login_mqtt", "ClientId": "862167054996545", "password": "b7e8e300ba5949c4a5f6d1c962c92071", "imei": "863659040514563"}` from `/python/mqtt` topic
+2024-05-22 18:18:45  INFO     topic=data_mqttdownload_863659040514563
+2024-05-22 18:18:45  INFO     Send `{'command': 'login_mqtt_863659040514563', 'databack_mqtt': {'errcode': '9000', 'message': 'login failure'}}` to topic `data_mqttdownload_863659040514563`
+2024-05-22 18:21:51  INFO     Connected to MQTT Broker!

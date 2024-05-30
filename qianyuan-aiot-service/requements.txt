@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+pyyaml
+stomp.py
+paho-mqtt
+dbutils
+pymysql

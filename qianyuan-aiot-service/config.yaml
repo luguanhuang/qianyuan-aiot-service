@@ -1,0 +1,25 @@
+http:
+  host: "0.0.0.0"
+  port: 5680
+tcp:
+  host: "0.0.0.0"
+  port: 8990
+activemq:
+  connecionhost: "amq.hystudio.cn"
+  # connecionhost: "127.0.0.1"
+  connecionport: 61613
+  sendnbiotqueueid: "/topic/nbiot_upload_qyzn"
+  recvnbiotqueueid: "/topic/nbiot_download_qyzn"
+  sendmqttqueueid: "/topic/mqtt_upload_qyzn"
+  recvmqttqueueid: "/topic/mqtt_download_qyzn"
+  # recvmqttqueueid: "mqtt_download_qyzn"
+  sendtcpqueueid: "/topic/tcp_upload_qyzn"
+  recvtcpqueueid: "/topic/tcp_download_qyzn"
+  user: "admin"
+  passwd: "admin"
+mqttinfo:
+  # port: 1880
+  port: 1883
+  # broker: "s.aiotm.cn"
+  broker: "127.0.0.1"
+  topic: "/python/mqtt"

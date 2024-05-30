@@ -1,0 +1,3 @@
+2024-05-21 14:43:07  ERROR    nbdataMessage data=
+2024-05-21 14:43:28  INFO     nbdataMessage data=
+2024-05-21 14:45:49  INFO     nbdataMessage data={'data': [{'dep_id': 'T01', 'dep_name': 'Test学院', 'master_name': 'Test-Master', 'slogan': 'Here is Slogan'}]}
